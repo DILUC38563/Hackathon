@@ -1,0 +1,32 @@
+.container{
+    background-color: cornsilk;
+}
+
+.input{
+    border-radius: 5px;
+    text-align: center;
+    padding: 0;
+    margin-top: 50px;
+    margin-left: 470px;
+    margin-bottom: 50px;
+    font-family: 'Goblin One', cursive;
+    height: 40px;
+}
+
+.submit{
+    border-radius: 5px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Goblin One', cursive;
+    padding-top: 25px;
+}
+
+.reload{
+    border-radius: 5px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
